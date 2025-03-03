@@ -1,0 +1,15 @@
+.storeName {
+    background-color: rgb(55, 195, 195);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.storeMotto {
+    border: 5px solid rgb(55, 195, 195);
+    background-color: rgb(55, 195, 195);
+    font-style: italic;
+    display: inline-block;
+    width: fit-content;
+    padding: 10px;
+    /* border-radius: 20px; */
+}
